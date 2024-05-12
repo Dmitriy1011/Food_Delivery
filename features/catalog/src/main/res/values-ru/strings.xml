@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_counter">1</string>
+    <string name="in_cart_with_price">"В корзину за"</string>
+    <string name="order_for">Заказать за</string>
+    <string name="empty_cart_text">Пусто, выберите блюда в каталоге :)</string>
+    <string name="empty_catalog_text">Не удалось загрузить товары</string>
+    <string name="find_goods">Найти блюдо</string>
+    <string name="enter_goods_name">Введите название блюда, которое ищите</string>
+    <string name="nothing_found">Ничего не нашлось :(</string>
+    <string name="bottom_sheet_button_ready">Готово</string>
+    <string name="for_sale">Со скидкой</string>
+    <string name="hot">Острое</string>
+    <string name="without_meat">Без мяса</string>
+    <string name="cart_title">Корзина</string>
+    <string name="choose_dishes_title">Подобрать блюда</string>
+</resources>
